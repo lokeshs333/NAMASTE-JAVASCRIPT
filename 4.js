@@ -5,6 +5,7 @@ console.log(b);
 /*here also hoisting will take place but in the case of let and const 
 variable are not stored in global scope rather they save or occupy memory 
 in another place that is the scrit in chrome browser..*/
+//the gap between this is also known as temporal dead zone..
 
 let b = 2;
 
